@@ -1,0 +1,33 @@
+.h{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.hl{
+    background-color: white;
+    color:gray;
+    display: flex;
+    padding: 10 px;
+    align-items: center;
+    border-radius: 20px;
+    flex:0.5;
+    min-width: 100px;
+}
+
+.hr{
+    display: flex;
+    align-items: center;
+    
+}
+
+.hr>h4{
+margin-left: 10px;
+}
+
+.hl>input{
+    border:none;
+    width:100%;
+
+}
+

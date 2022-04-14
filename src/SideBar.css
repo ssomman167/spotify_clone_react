@@ -1,0 +1,35 @@
+.sidebar{
+    /* width:10px;
+    height: 20px; */
+    /* border:1px solid rebeccapurple; */
+    background-color: black;
+    height: 100vh;
+    flex:0.2;
+    color:white;
+    min-width: 230px;
+}
+
+.logo{
+    /* width:80px; */
+    /* object-fit: ; */
+    margin: auto;
+    padding:10px;
+    height: 65px;
+}
+
+/* .sidebar{
+    margin-left: 10px;
+    padding: 5px;
+
+} */
+
+.sidebar>hr{
+    /* border:1px solid 
+    width */
+    width:90%;
+    margin:10px auto;
+}
+
+.sidebar_title{
+    margin-left:30px;
+}
